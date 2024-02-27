@@ -1,1 +1,1 @@
-# typescript_assignment_5_Stripping_Names
+# typescript_assignment_6_Stripping_Names
